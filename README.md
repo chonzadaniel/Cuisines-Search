@@ -1,7 +1,7 @@
 # **Cuisines-Search-Chatbot**
 Food places' search chatbot around cities.
 
-# food-chatbot
+## A restaurant search for prominent cuisines across a specified city/town the user prefers, providing top n options availabe.
 
 This is the **Complete Version** of the Chatbot and can be directly used with slack by filling **slack_credentials.yml** and **Zomato API's** key in the **actions.py** files.
 
