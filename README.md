@@ -1,4 +1,4 @@
-# **Cuisines-Search**
+# **Cuisines-Search-Chatbot**
 Food places' search chatbot around cities.
 
 # food-chatbot
